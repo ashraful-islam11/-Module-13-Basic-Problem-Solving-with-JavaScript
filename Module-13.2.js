@@ -87,9 +87,6 @@ rangeOfSum(7)
 rangeOfSum(8)
 rangeOfSum(20)
     
-    
-
-
-    
+  
  
 
